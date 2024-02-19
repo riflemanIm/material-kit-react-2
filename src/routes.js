@@ -70,13 +70,13 @@ import Typography from "layouts/sections/elements/typography";
 
 const routes = [
   {
-    name: "pages",
+    name: "Частным лицам",
     icon: <Icon>dashboard</Icon>,
     columns: 1,
     rowsPerColumn: 2,
     collapse: [
       {
-        name: "landing pages",
+        name: "Частным лицам",
         collapse: [
           {
             name: "about us",
